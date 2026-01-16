@@ -43,7 +43,7 @@ namespace CurrencyTracker
             bool devam = true;
             while (devam)
             {
-                Console.WriteLine("\nCurrencyTracker");
+                Console.WriteLine("\n=====CurrencyTracker=====");
                 Console.WriteLine("1. Tüm dövizleri listele");
                 Console.WriteLine("2. Koda göre döviz ara");
                 Console.WriteLine("3. Belirli bir değerden büyük dövizleri listele");
@@ -53,7 +53,7 @@ namespace CurrencyTracker
                 Console.Write("Seçiminiz: ");
 
                 string secim = Console.ReadLine();
-                Console.WriteLine("*******************");
+                Console.WriteLine("============================");
 
                 switch (secim)
                 {
