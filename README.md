@@ -1,5 +1,5 @@
 # CurrencyTracker
-Bu proje, Frankfurter API kullanarak anlık döviz kurlarını (Türk Lirası bazlı) çeken, hadızada tutan ve kullanıcıya çeşitli LINQ sorgulama imkanları sunan bir C# konsol uygulamasıdır.
+Bu proje, Frankfurter API kullanarak anlık döviz kurlarını (Türk Lirası bazlı) çeken, hafızada tutan ve kullanıcıya çeşitli LINQ sorgulama imkanları sunan bir C# konsol uygulamasıdır.
 ## Projenin Amacı
 Finansal verilerin canlı olarak internetten çekilmesi, JSON formatındaki verinin C# nesnelerine dönüştürülmesi ve bu veriler üzerinde filtreleme, sıralama ve istatiksel hesaplamaların yapılması amaçlanmıştır.
 ## Özellikler ve Menü İşlevleri
