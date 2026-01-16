@@ -10,7 +10,7 @@ Uygulama açıldığında API'den verileri çeker ve aşağıdaki işlemleri sun
 4. *Sıralama:* Dövizleri değerine göre küçükten büyüğe sıralar (LINQ OrderBy).
 5. *İstatistiksel Özet:* Toplam döviz sayısı, en yüksek/en düşük kur ve ortalama kur bilgisini gösterir (LINQ Count, Max, Min, Average)
 
-## Kullanılan Teknolohiler ve Teknik Gereksinimler
+## Kullanılan Teknolojiler ve Teknik Gereksinimler
 Proje, aşağıdaki teknik şartlara tam uyumlulukla geliştirilmiştir.
 - Dil: C# (.NET)
 - Proje Tipi: Konsol Uygulaması
